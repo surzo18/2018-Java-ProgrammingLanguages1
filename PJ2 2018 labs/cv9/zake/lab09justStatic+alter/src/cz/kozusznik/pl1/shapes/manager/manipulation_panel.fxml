@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.effect.Light.Distant?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="controlPanel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="388.0" prefWidth="192.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.kozusznik.pl1.shapes.manager.ManipulationPanelController">
+   <effect>
+      <Lighting>
+         <bumpInput>
+            <Shadow blurType="GAUSSIAN" />
+         </bumpInput>
+         <light>
+            <Light.Distant />
+         </light>
+      </Lighting>
+   </effect>
+   <children>
+      <RadioButton fx:id="createRB" layoutX="14.0" layoutY="55.0" mnemonicParsing="false" selected="true" text="Create">
+         <toggleGroup>
+            <ToggleGroup fx:id="actionGroup" />
+         </toggleGroup></RadioButton>
+      <RadioButton fx:id="moveRB" layoutX="14.0" layoutY="83.0" mnemonicParsing="false" text="Move" toggleGroup="$actionGroup" />
+      <RadioButton fx:id="modifyRB" layoutX="14.0" layoutY="110.0" mnemonicParsing="false" text="Modify" toggleGroup="$actionGroup" />
+      <RadioButton fx:id="deleteRB" layoutX="14.0" layoutY="138.0" mnemonicParsing="false" text="Delete" toggleGroup="$actionGroup" />
+      
+       <Pane layoutX="15.0" layoutY="175.0" prefHeight="86.0" prefWidth="165.0" style="-fx-border-color: #ddd; -fx-border-width: 2; -fx-background-radius: 6;">
+         <children>
+            <Label layoutX="5.0" layoutY="-8.0" style="-fx-background-color: #fff;" text="Actual position">
+               <padding>
+                  <Insets left="2.0" right="2.0" />
+               </padding>
+            </Label>
+      		<Label layoutX="14.0" layoutY="14.0" text="X" />
+	      	<TextField fx:id="actualX" editable="false" layoutX="36.0" layoutY="14.0" prefHeight="26.0" prefWidth="116.0" />
+	      	<Label layoutX="14.0" layoutY="44.0" text="Y" />
+	      	<TextField fx:id="actualY" editable="false" layoutX="36.0" layoutY="44.0" prefHeight="26.0" prefWidth="116.0" /> 
+         </children>
+      </Pane>
+      
+      <Pane id="selected" layoutX="14.0" layoutY="274.0" prefHeight="86.0" prefWidth="165.0" style="-fx-border-color: #ddd; -fx-border-width: 2; -fx-background-radius: 6;">
+         <children>
+            <Label layoutX="5.0" layoutY="-8.0" style="-fx-background-color: #fff;" text="Selected position">
+               <padding>
+                  <Insets left="2.0" right="2.0" />
+               </padding>
+            </Label>
+      		<Label layoutX="14.0" layoutY="14.0" text="X" />
+	      	<TextField fx:id="selectedX" editable="false" layoutX="36.0" layoutY="14.0" prefHeight="26.0" prefWidth="116.0" />
+	      	<Label layoutX="14.0" layoutY="44.0" text="Y" />
+	      	<TextField fx:id="selectedY" editable="false" layoutX="36.0" layoutY="44.0" prefHeight="26.0" prefWidth="116.0" /> 
+         </children>
+      </Pane>
+      <ComboBox fx:id="toCreate" layoutX="15.0" layoutY="16.0" prefHeight="26.0" prefWidth="141.0" />
+      
+   </children>
+   
+</Pane>

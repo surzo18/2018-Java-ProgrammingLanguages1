@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92689547-8892-404f-9bad-c8ac6e05ded3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/Java._Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Iterator/Quiz/Iterator-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Iterator/Quiz/Iterator-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Iterator/Quiz/Iterator-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Iterator/Theory/Iterator-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Iterator/Theory/Iterator-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Iterator/Theory/Iterator-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (1)/List-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (1)/List-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (1)/List-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (2)/List-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (2)/List-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (2)/List-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (3)/List-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (3)/List-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (3)/List-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (4)/List-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (4)/List-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (4)/List-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (5)/List-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (5)/List-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming (5)/List-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming/List-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming/List-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Programming/List-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Quiz (1)/List-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Quiz (1)/List-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Quiz (1)/List-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Quiz/List-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Quiz/List-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Quiz/List-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Theory (1)/List-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Theory (1)/List-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Theory (1)/List-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Theory/List-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Theory/List-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/List/Theory/List-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (1)/Map-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (1)/Map-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (1)/Map-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (2)/Map-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (2)/Map-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (2)/Map-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (3)/Map-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (3)/Map-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (3)/Map-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (4)/Map-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (4)/Map-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (4)/Map-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (5)/Map-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (5)/Map-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming (5)/Map-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming/Map-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming/Map-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Programming/Map-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Theory/Map-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Theory/Map-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Map/Theory/Map-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming_(6).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming_(6)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming_(6)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming (1)/Set-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming (1)/Set-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming (1)/Set-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming (2)/Set-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming (2)/Set-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming (2)/Set-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming/Set-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming/Set-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Programming/Set-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz (1)/Set-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz (1)/Set-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz (1)/Set-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz (2)/Set-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz (2)/Set-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz (2)/Set-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz/Set-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz/Set-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Quiz/Set-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Theory/Set-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Theory/Set-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/Set/Theory/Set-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/study_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Collections utility class/Programming (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Collections utility class/Programming/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Collections utility class/Quiz/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Collections utility class/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Iterator/Quiz/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Iterator/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Programming (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Programming (2)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Programming (3)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Programming (4)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Programming (5)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Programming/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Quiz (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Quiz/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Theory (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/List/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Programming (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Programming (2)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Programming (3)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Programming (4)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Programming (5)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Programming/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Map/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming (2)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming (3)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming (4)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming (5)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming (6)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Programming/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Quiz/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Queue and Stack/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Programming (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Programming (2)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Programming/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Quiz (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Quiz (2)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Quiz/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/Set/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/Java._Collections1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Iterator/Quiz/Iterator-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Iterator/Quiz/Iterator-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Iterator/Quiz/Iterator-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Iterator/Theory/Iterator-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Iterator/Theory/Iterator-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Iterator/Theory/Iterator-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (1)/List-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (1)/List-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (1)/List-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (2)/List-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (2)/List-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (2)/List-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (3)/List-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (3)/List-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (3)/List-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (4)/List-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (4)/List-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (4)/List-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (5)/List-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (5)/List-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming (5)/List-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming/List-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming/List-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Programming/List-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Quiz (1)/List-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Quiz (1)/List-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Quiz (1)/List-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Quiz/List-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Quiz/List-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Quiz/List-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Theory (1)/List-Theory_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Theory (1)/List-Theory_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Theory (1)/List-Theory_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Theory/List-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Theory/List-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/List/Theory/List-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (1)/Map-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (1)/Map-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (1)/Map-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (2)/Map-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (2)/Map-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (2)/Map-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (3)/Map-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (3)/Map-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (3)/Map-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (4)/Map-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (4)/Map-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (4)/Map-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (5)/Map-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (5)/Map-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming (5)/Map-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming/Map-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming/Map-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Programming/Map-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Theory/Map-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Theory/Map-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Map/Theory/Map-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming_(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming_(3)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming_(3)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming_(4).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming_(4)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming_(4)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming_(5).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming_(5)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming_(5)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming_(6).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming_(6)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming_(6)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming (1)/Set-Programming_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming (1)/Set-Programming_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming (1)/Set-Programming_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming (2)/Set-Programming_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming (2)/Set-Programming_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming (2)/Set-Programming_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming/Set-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming/Set-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Programming/Set-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz (1)/Set-Quiz_(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz (1)/Set-Quiz_(1)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz (1)/Set-Quiz_(1)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz (2)/Set-Quiz_(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz (2)/Set-Quiz_(2)_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz (2)/Set-Quiz_(2)_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz/Set-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz/Set-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Quiz/Set-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Theory/Set-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Theory/Set-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/Set/Theory/Set-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java. Collections1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VojtovoAuto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VojtovoAuto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv2/lab02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv2/lab02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv4/lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv4/lab04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl1/shapes/Arc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl1/shapes/Arc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/lab07/IClickable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/lab07/IClickable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/lab07/IMoveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/lab07/IMoveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/lab07/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/lab07/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/Arc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/CanvasManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/CanvasManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/ManipulationPanelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/ManipulationPanelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/Pacman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv7/lab07/src/pl1/shapes/manager/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv8/lab08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv8/lab08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv8/lab08/src/cz/kozusznik/pl1/shapes/manager/Transformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv8/lab08/src/cz/kozusznik/pl1/shapes/manager/Transformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (1)/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (1)/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (2)/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (2)/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (3)/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (3)/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (4)/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming (4)/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/Java. Collections/List/Programming/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/lab09/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/lab09/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/lab09/lab09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/lab09/lab09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cv9/lab09/src/cz/kozusznik/pl1/lab09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../cv9/lab09/src/cz/kozusznik/pl1/lab09/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1405554643">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fxml" value="1" />
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="14" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2760" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2760" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl1/lab05/Run0501.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/shapes/Pacman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2357#2358#0" expanded="true" />
+                <element signature="e#2387#2388#0" expanded="true" />
+                <element signature="e#2424#2425#0" expanded="true" />
+                <element signature="e#2452#2453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/shapes/Arc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/canvas/Canvas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2618">
+              <caret line="188" column="31" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/canvas/CanvasPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/canvas/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/canvas/Resizing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl1/lab05/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/layout/Pane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pl1/types/Position.java" />
+        <option value="$PROJECT_DIR$/src/pl1/shapes/Pacman.java" />
+        <option value="$PROJECT_DIR$/src/pl1/lab05/Run0501.java" />
+        <option value="$PROJECT_DIR$/src/pl1/canvas/Resizing.java" />
+        <option value="$PROJECT_DIR$/src/pl1/shapes/Arc.java" />
+        <option value="$PROJECT_DIR$/src/pl1/canvas/Canvas.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1910" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl1" type="462c0819:PsiDirectoryNode" />
+              <item name="canvas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl1" type="462c0819:PsiDirectoryNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl1" type="462c0819:PsiDirectoryNode" />
+              <item name="shapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab05" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl1" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542488947234" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run0501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl1.lab05.Run0501" />
+      <module name="lab05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl1.lab05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run0501" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92689547-8892-404f-9bad-c8ac6e05ded3" name="Default Changelist" comment="" />
+      <created>1539707738256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539707738256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30469584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info active="true" id="Learn" order="6" visible="true" weight="0.32977587" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32930845" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39956093" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32896176" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/input/MouseEvent.java" />
+    <entry file="jar:///usr/java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Iterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/pl1/types/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-686">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/types/Direction8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5389">
+          <caret line="320" column="22" selection-start-line="320" selection-start-column="22" selection-end-line="320" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/canvas/GraphicsContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6783">
+          <caret line="459" column="19" selection-start-line="459" selection-start-column="19" selection-end-line="459" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/canvas/manipulation_panel.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/lab05/Run0501.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/shapes/Pacman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2357#2358#0" expanded="true" />
+            <element signature="e#2387#2388#0" expanded="true" />
+            <element signature="e#2424#2425#0" expanded="true" />
+            <element signature="e#2452#2453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/shapes/Arc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/canvas/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="188" column="31" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/canvas/CanvasPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/canvas/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/canvas/Resizing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl1/lab05/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/layout/Pane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab05</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

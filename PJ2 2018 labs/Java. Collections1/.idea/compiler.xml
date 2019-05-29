@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Collections_utility_class-Programming_(1)_main" target="1.8" />
+      <module name="Collections_utility_class-Programming_(1)_test" target="1.8" />
+      <module name="Collections_utility_class-Programming_main" target="1.8" />
+      <module name="Collections_utility_class-Programming_test" target="1.8" />
+      <module name="Collections_utility_class-Quiz_main" target="1.8" />
+      <module name="Collections_utility_class-Quiz_test" target="1.8" />
+      <module name="Collections_utility_class-Theory_main" target="1.8" />
+      <module name="Collections_utility_class-Theory_test" target="1.8" />
+      <module name="Iterator-Quiz_main" target="1.8" />
+      <module name="Iterator-Quiz_test" target="1.8" />
+      <module name="Iterator-Theory_main" target="1.8" />
+      <module name="Iterator-Theory_test" target="1.8" />
+      <module name="List-Programming_(1)_main" target="1.8" />
+      <module name="List-Programming_(1)_test" target="1.8" />
+      <module name="List-Programming_(2)_main" target="1.8" />
+      <module name="List-Programming_(2)_test" target="1.8" />
+      <module name="List-Programming_(3)_main" target="1.8" />
+      <module name="List-Programming_(3)_test" target="1.8" />
+      <module name="List-Programming_(4)_main" target="1.8" />
+      <module name="List-Programming_(4)_test" target="1.8" />
+      <module name="List-Programming_(5)_main" target="1.8" />
+      <module name="List-Programming_(5)_test" target="1.8" />
+      <module name="List-Programming_main" target="1.8" />
+      <module name="List-Programming_test" target="1.8" />
+      <module name="List-Quiz_(1)_main" target="1.8" />
+      <module name="List-Quiz_(1)_test" target="1.8" />
+      <module name="List-Quiz_main" target="1.8" />
+      <module name="List-Quiz_test" target="1.8" />
+      <module name="List-Theory_(1)_main" target="1.8" />
+      <module name="List-Theory_(1)_test" target="1.8" />
+      <module name="List-Theory_main" target="1.8" />
+      <module name="List-Theory_test" target="1.8" />
+      <module name="Map-Programming_(1)_main" target="1.8" />
+      <module name="Map-Programming_(1)_test" target="1.8" />
+      <module name="Map-Programming_(2)_main" target="1.8" />
+      <module name="Map-Programming_(2)_test" target="1.8" />
+      <module name="Map-Programming_(3)_main" target="1.8" />
+      <module name="Map-Programming_(3)_test" target="1.8" />
+      <module name="Map-Programming_(4)_main" target="1.8" />
+      <module name="Map-Programming_(4)_test" target="1.8" />
+      <module name="Map-Programming_(5)_main" target="1.8" />
+      <module name="Map-Programming_(5)_test" target="1.8" />
+      <module name="Map-Programming_main" target="1.8" />
+      <module name="Map-Programming_test" target="1.8" />
+      <module name="Map-Theory_main" target="1.8" />
+      <module name="Map-Theory_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(1)_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(1)_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(2)_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(2)_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(3)_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(3)_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(4)_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(4)_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(5)_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(5)_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(6)_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_(6)_test" target="1.8" />
+      <module name="Queue_and_Stack-Programming_main" target="1.8" />
+      <module name="Queue_and_Stack-Programming_test" target="1.8" />
+      <module name="Queue_and_Stack-Quiz_main" target="1.8" />
+      <module name="Queue_and_Stack-Quiz_test" target="1.8" />
+      <module name="Queue_and_Stack-Theory_main" target="1.8" />
+      <module name="Queue_and_Stack-Theory_test" target="1.8" />
+      <module name="Set-Programming_(1)_main" target="1.8" />
+      <module name="Set-Programming_(1)_test" target="1.8" />
+      <module name="Set-Programming_(2)_main" target="1.8" />
+      <module name="Set-Programming_(2)_test" target="1.8" />
+      <module name="Set-Programming_main" target="1.8" />
+      <module name="Set-Programming_test" target="1.8" />
+      <module name="Set-Quiz_(1)_main" target="1.8" />
+      <module name="Set-Quiz_(1)_test" target="1.8" />
+      <module name="Set-Quiz_(2)_main" target="1.8" />
+      <module name="Set-Quiz_(2)_test" target="1.8" />
+      <module name="Set-Quiz_main" target="1.8" />
+      <module name="Set-Quiz_test" target="1.8" />
+      <module name="Set-Theory_main" target="1.8" />
+      <module name="Set-Theory_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

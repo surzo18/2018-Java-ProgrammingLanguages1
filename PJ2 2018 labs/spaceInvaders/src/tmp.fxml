@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #000;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <cursor>
+      <Cursor fx:constant="HAND" />
+   </cursor>
+   <children>
+      <Label layoutX="131.0" layoutY="14.0" prefHeight="107.0" prefWidth="384.0" text="Space Invaders " textAlignment="CENTER" textFill="LIME">
+         <font>
+            <Font size="46.0" />
+         </font>
+      </Label>
+      <Label layoutX="530.0" layoutY="371.0" prefHeight="15.0" prefWidth="68.0" text="by Edie" textFill="LIME" />
+      <Button layoutX="162.0" layoutY="272.0" mnemonicParsing="false" style="-fx-background-color: #000;" text="PLAY SPACE INVADERS" textFill="LIME">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
